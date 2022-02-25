@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.75851b00.css",
+    "main.js": "/portfolio/static/js/main.dacf86ce.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/databox.jpg": "/portfolio/static/media/databox.f82d844451179e8fbbb5.jpg",
+    "static/media/bush.svg": "/portfolio/static/media/bush.ac58c7bfed2c8cfbf4ff.svg",
+    "static/media/fetch.jpg": "/portfolio/static/media/fetch.c6ed641d85f362efbf0a.jpg",
+    "static/media/green.svg": "/portfolio/static/media/green.5bdf0e2c47c27a84a586.svg",
+    "static/media/one.svg": "/portfolio/static/media/one.696bfd83de9bb7556360.svg",
+    "static/media/logo.png": "/portfolio/static/media/logo.b69d699ae4d9e0009d21.png",
+    "static/media/long.svg": "/portfolio/static/media/long.0f79c131696b10ea6d69.svg",
+    "static/media/Duo-1.jpg": "/portfolio/static/media/Duo-1.eccfd1f3140c0533e74f.jpg",
+    "static/media/oop.jpg": "/portfolio/static/media/oop.74481edcb179b8ec9eb7.jpg",
+    "static/media/rock.svg": "/portfolio/static/media/rock.eeb6ea5e5000facfe07d.svg",
+    "static/media/redFish.svg": "/portfolio/static/media/redFish.6cf8794bf468ce010036.svg",
+    "static/media/nemo.svg": "/portfolio/static/media/nemo.ee5bee6c6d41c456eabb.svg",
+    "static/media/two.svg": "/portfolio/static/media/two.7e192ac3f1bbab7b0908.svg",
+    "static/media/fish-br.svg": "/portfolio/static/media/fish-br.e34b31bc0f004d333086.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.6a41a069975cc98636c6.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.8db977e801919c3d5e16.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.78d21fb2aa7e07aca14f.svg",
+    "index.html": "/portfolio/index.html",
+    "main.75851b00.css.map": "/portfolio/static/css/main.75851b00.css.map",
+    "main.dacf86ce.js.map": "/portfolio/static/js/main.dacf86ce.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75851b00.css",
+    "static/js/main.dacf86ce.js"
+  ]
+}
