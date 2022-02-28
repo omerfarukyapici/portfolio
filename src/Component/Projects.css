@@ -1,0 +1,723 @@
+.ProjectsContent {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(66, 185, 201);
+  padding: 2rem 0rem 0rem 0rem;
+}
+
+.ProjectsContent-Content {
+  width: 1100px;
+  display: flex;
+  justify-content: left;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+} 
+
+.Porojects-Sentences {
+  width: 1120px;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  position: relative;
+  z-index: 100;
+}
+.Porojects-Sentences div {
+  display: flex;
+  justify-content: left;
+}
+
+.ProjectİmgLink {
+  display: flex;
+  justify-content: left;
+  position: relative;
+}
+
+.ProjectİmgLink .imgParent {
+  background-color: rgb(29, 13, 36);
+  padding: 0.9rem;
+  border: 2px solid black;
+
+  box-shadow: 1rem 0.5rem 20px rgb(42, 42, 48);
+  margin-bottom: 1.5rem;
+}
+
+.ProjectİmgLink a {
+  box-shadow: 1rem 0.5rem 20px rgb(42, 42, 48);
+  color: rgb(15, 15, 15);
+  background-color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  font-weight: 700;
+}
+.ProjectİmgLink a:hover {
+  background-color: rgb(50, 18, 71);
+  color: rgb(231, 227, 227);
+  transition: 0.3s;
+}
+
+.ProjectİmgLink img {
+  width: 25rem;
+}
+
+
+
+.project  {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+.showContactButton {
+  position: relative;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: rgb(255, 255, 255);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: 1rem;
+}
+
+.contact {
+  position: absolute;
+  top: 4.8rem;
+  color: rgb(0, 0, 0);
+  padding: 1rem;
+  border: .8rem solid rgb(29, 13, 36);
+  right: 0;
+  z-index: 1000;
+  font-weight: 700;
+  font-size: 1.2rem;
+  background-color: #ffffff ;
+  animation: contactAnimation .3s  ease-out;
+}
+.contact a {
+  color: rgb(0, 0, 0);
+  width: auto;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+@keyframes contactAnimation {
+  0%{
+    transform: scale(0);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+
+/* Project Page Fish and Animation */
+
+.ProjectFish-1 {
+  background-image: url("./İmg/two.svg");
+  display: block;
+  width: 6rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishRigtToLeft 20s infinite ease-out;
+  top: 30rem;
+}
+.ProjectFish-6 {
+  background-image: url("./İmg/two.svg");
+  display: block;
+  width: 13rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishRigtToLeft 19s infinite ease-out;
+  top: 20rem;
+}
+.ProjectFish-7 {
+  background-image: url("./İmg/two.svg");
+  display: block;
+  width: 9rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishRigtToLeft 22s infinite ease-out;
+  top: 12rem;
+}
+
+@keyframes projectFishRigtToLeft {
+  0% {
+    transform: rotateY(180deg);
+    right: 2rem;
+  }
+  1% {
+    transform: rotate(-4deg);
+    right: 2rem;
+  }
+  59% {
+    transform: rotateY(0deg);
+  }
+
+  60% {
+    right: 85%;
+    transform: rotateY(180deg);
+  }
+
+  100% {
+    right: 2rem;
+    transform: rotateY(180deg);
+  }
+}
+
+.ProjectFish-2 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 4rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 27s infinite ease-out;
+  top: 53rem;
+}
+.ProjectFish-3 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 6rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 23s infinite ease-out;
+  top: 44rem;
+}
+.ProjectFish-4 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 9rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 28s infinite ease-out;
+  top: 62rem;
+}
+.ProjectFish-5 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 2rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 30s infinite ease-out;
+  top: 65rem;
+}
+
+.ProjectFish-8 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 8rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 29s infinite ease-out;
+  top: 70rem;
+}
+.ProjectFish-9 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 3rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 25s infinite ease-out;
+  top: 80rem;
+}
+.ProjectFish-10 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 5rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 22s infinite ease-out;
+  top: 83rem;
+}
+
+@keyframes projectFishLeftToRight {
+  0% {
+    transform: rotateY(180deg);
+    left: 2rem;
+  }
+  1% {
+    transform: rotate(-4deg);
+    left: 2rem;
+  }
+  59% {
+    transform: rotateY(0deg);
+  }
+
+  60% {
+    left: 85%;
+    transform: rotateY(180deg);
+  }
+
+  100% {
+    left: 2rem;
+    transform: rotateY(180deg);
+  }
+}
+
+.Project-Background {
+  background-image: url("./İmg/long.svg"), url("./İmg/long.svg"),
+    url("./İmg/bush.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom -15rem, center bottom -10rem,
+    center bottom -13rem;
+  background-size: 50%, 25%;
+}
+
+
+
+
+
+/* left to right */
+.ProjectFish-11 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 5rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 17s infinite ease-out;
+  top:93rem;
+}
+.ProjectFish-12 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 5rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 20s infinite ease-out;
+  top:103rem;
+}
+
+.ProjectFish-13 {
+  background-image: url("./İmg/fish-br.svg");
+  display: block;
+  width: 5rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 18s infinite ease-out;
+  top:123rem;
+}
+
+
+
+.ProjectFish-14 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 3rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 19s infinite ease-out;
+  top:133rem;
+}
+.ProjectFish-15 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 9rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 22s infinite ease-out;
+  top:128rem;
+}
+
+.ProjectFish-16 {
+  background-image: url("./İmg/redFish.svg");
+  display: block;
+  width: 8rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishLeftToRight 19s infinite ease-out;
+  top:140rem;
+}
+
+
+/* Right to left */
+
+.ProjectFish-17 {
+  background-image: url("./İmg/two.svg");
+  display: block;
+  width: 8rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishRigtToLeft 25s infinite ease-out;
+  top: 20rem;
+}
+.ProjectFish-18 {
+  background-image: url("./İmg/two.svg");
+  display: block;
+  width: 5rem;
+  height: 10rem;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 4%;
+  animation: projectFishRigtToLeft 21s infinite ease-out;
+  top: 25rem;
+}
+
+
+
+
+
+@media (max-width: 1120px) {
+  .Porojects-Sentences {
+    width: auto;
+  }
+}
+
+
+@media (max-width: 1200px) {
+  .ProjectFish-1 {
+    width: 6rem;
+    animation: projectFishRigtToLeft 18s infinite ease-out;
+  }
+  .ProjectFish-6 {
+    width: 5rem;
+    animation: projectFishRigtToLeft 15s infinite ease-out;
+  }
+  .ProjectFish-7 {
+    width: 4rem;
+    animation: projectFishRigtToLeft 14s infinite ease-out;
+  }
+
+  .ProjectFish-2 {
+    width: 4rem;
+    animation: projectFishLeftToRight 16s infinite ease-out;
+  }
+  .ProjectFish-3 {
+    width: 5rem;
+    animation: projectFishLeftToRight 14s infinite ease-out;
+  }
+  .ProjectFish-4 {
+    width: 6rem;
+    animation: projectFishLeftToRight 15s infinite ease-out;
+  }
+  .ProjectFish-5 {
+    width: 3rem;
+    animation: projectFishLeftToRight 18s infinite ease-out;
+  }
+  
+  .ProjectFish-8 {
+    width: 5rem;
+    animation: projectFishLeftToRight 15s infinite ease-out;
+  }
+  .ProjectFish-9 {
+    width: 3rem;
+    animation: projectFishLeftToRight 15s infinite ease-out;
+  }
+  .ProjectFish-10 {
+    width: 5rem;
+    animation: projectFishLeftToRight 17s infinite ease-out;
+  }
+
+
+
+
+
+  .ProjectFish-11 {
+    width: 6rem;
+    animation: projectFishLeftToRight 10s infinite ease-out;
+  }
+  .ProjectFish-12 {
+    width: 8rem;
+    animation: projectFishLeftToRight 13s infinite ease-out;
+  }
+
+  .ProjectFish-13 {
+    width: 4rem;
+    animation: projectFishLeftToRight 14s infinite ease-out;
+  }
+  .ProjectFish-14 {
+    width: 5rem;
+    animation: projectFishLeftToRight 12s infinite ease-out;
+  }
+  .ProjectFish-15 {
+    width: 6rem;
+    animation: projectFishLeftToRight 15s infinite ease-out;
+  }
+  .ProjectFish-16 {
+    width: 3rem;
+    animation: projectFishLeftToRight 16s infinite ease-out;
+  }
+  .ProjectFish-17 {
+    width: 7rem;
+    animation: projectFishRigtToLeft 15s infinite ease-out;
+  }
+  .ProjectFish-18 {
+    width: 6rem;
+    animation: projectFishRigtToLeft 16s infinite ease-out;
+  }
+
+
+
+
+  @keyframes projectFishRigtToLeft {
+    0% {
+      transform: rotateY(180deg);
+      right: 2rem;
+    }
+    1% {
+      transform: rotate(-4deg);
+      right: 2rem;
+    }
+    59% {
+      transform: rotateY(0deg);
+    }
+  
+    60% {
+      right: 75%;
+      transform: rotateY(180deg);
+    }
+  
+    100% {
+      right: 2rem;
+      transform: rotateY(180deg);
+    }
+  }
+
+  @keyframes projectFishLeftToRight {
+    0% {
+      transform: rotateY(180deg);
+      left: 2rem;
+    }
+    1% {
+      transform: rotate(-4deg);
+      left: 2rem;
+    }
+    59% {
+      transform: rotateY(0deg);
+    }
+  
+    60% {
+      left: 70%;
+      transform: rotateY(180deg);
+    }
+  
+    100% {
+      left: 2rem;
+      transform: rotateY(180deg);
+    }
+  }
+
+
+  .Project-Background {
+    background-image: url("./İmg/long.svg"), url("./İmg/long.svg"),
+      url("./İmg/bush.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom -10rem, center bottom -5rem,
+      center bottom -8rem;
+    background-size: 50%, 25%;
+  }
+
+}
+
+
+
+@media (max-width: 900px) {
+  .contact {
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+  .showContactButton {
+    position: static;
+  }
+  .contact {
+    padding: 40%rem;
+    margin: .3rem;
+    font-size: 1.2rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 920px) {
+  .ProjectFish-1 {
+    width: 6rem;
+    animation: none;
+    left: 3%;
+    top: 30rem;
+  }
+  .ProjectFish-6 {
+    width: 5rem;
+    animation: none;
+    right: 15%;
+  }
+  .ProjectFish-7 {
+    width: 4rem;
+    animation: none;
+    right: 25%;
+    top: 5rem;
+  }
+
+  .ProjectFish-2 {
+    width: 4rem;
+    animation: none;
+    right: 20%;
+  }
+  .ProjectFish-3 {
+    width: 5rem;
+    animation: none;
+    left: 2%;
+  }
+  .ProjectFish-4 {
+    width: 6rem;
+    animation: none;
+    right: 30%;
+  }
+  .ProjectFish-5 {
+    width: 3rem;
+    animation: none;
+    right: 20%;
+  }
+  
+  .ProjectFish-8 {
+    width: 5rem;
+    animation: none;
+    right: 22%;
+  }
+  .ProjectFish-9 {
+    width: 3rem;
+    animation: none;
+    left: 50%;
+  }
+  .ProjectFish-10 {
+    width: 5rem;
+    animation: none;
+    left: 30%;
+  }
+
+
+
+
+
+  .ProjectFish-11 {
+    width: 6rem;
+    animation: none;
+    left: 1%;
+  }
+  .ProjectFish-12 {
+    width: 8rem;
+    animation: none;
+    right: 5%;
+  }
+
+  .ProjectFish-13 {
+    width: 4rem;
+    animation: none;
+    right: 20%;
+  }
+  .ProjectFish-14 {
+    width: 5rem;
+    animation: none;
+    right: 50%;
+  }
+  .ProjectFish-15 {
+    width: 6rem;
+    animation: none;
+    right: 30%;
+  }
+  .ProjectFish-16 {
+    width: 3rem;
+    animation: none;
+    right: 15%;
+  }
+  .ProjectFish-17 {
+    width: 7rem;
+    animation: none;
+    right: 20%;
+  }
+  .ProjectFish-18 {
+    width: 6rem;
+    animation: none;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 700px) {
+  .ProjectİmgLink img {
+    width: 15rem;
+  }
+  .ProjectİmgLink {
+    justify-content: center;
+    text-align: center;
+  }
+  .Project-Background {
+    background-image: url("./İmg/long.svg"), url("./İmg/long.svg"),
+      url("./İmg/bush.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom -5rem, center bottom -5rem,
+      center bottom -4rem;
+    background-size: 50%, 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .hideEmoji {
+    display: none;
+  }
+  .showContactButton {
+    font-size: 1.1rem;
+    padding-left: .4rem;
+    padding-right: .4rem;
+    margin-left: .5rem;
+  }
+}
+
