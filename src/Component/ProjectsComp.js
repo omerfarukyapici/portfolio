@@ -56,7 +56,7 @@ const ProjectsComp = () => {
                     <div className="tree">★</div>
                     <Sentence
                         sentenceClassName={"s"}
-                        sentenceContent={"My biggest Project Ever;"}
+                        sentenceContent={"My biggest React.js Project Ever;"}
                     />
                 </div>
 
@@ -106,7 +106,7 @@ const ProjectsComp = () => {
                 <div >
                     <Sentence
                         sentenceClassName={"tools"}
-                        sentenceContent={"Different Folder and File structure,"}
+                        sentenceContent={"Different Folder and File structures,"}
                     />
                 </div>
                 <div >
@@ -225,7 +225,7 @@ const ProjectsComp = () => {
                 <div >
                     <Sentence
                         sentenceClassName={"tools"}
-                        sentenceContent={"Rest Api,"}
+                        sentenceContent={"API,"}
                     />
                 </div>
                 <div >
@@ -372,7 +372,7 @@ const ProjectsComp = () => {
                 <div >
                     <Sentence
                         sentenceClassName={"tools"}
-                        sentenceContent={"RestApi w/Fetch,"}
+                        sentenceContent={"API w/Fetch,"}
                     />
                 </div>
 
