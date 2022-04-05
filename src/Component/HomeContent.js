@@ -87,7 +87,7 @@ const HomeContent = () => {
                 <div>
                     <Sentence
                         sentenceClassName={"tools"}
-                        sentenceContent={"Rest Api,"}
+                        sentenceContent={"API,"}
                     />
                 </div>
                 <div>
