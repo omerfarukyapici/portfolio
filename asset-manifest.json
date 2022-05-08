@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.39326a74.css",
-    "main.js": "/portfolio/static/js/main.184d02d9.js",
+    "main.js": "/portfolio/static/js/main.c1164765.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/batmanGames.png": "/portfolio/static/media/batmanGames.3cd07df303204307e199.png",
     "static/media/databox.jpg": "/portfolio/static/media/databox.01f6744b3d44dd701f9c.jpg",
     "static/media/bush.svg": "/portfolio/static/media/bush.ac58c7bfed2c8cfbf4ff.svg",
     "static/media/fetch.jpg": "/portfolio/static/media/fetch.c6ed641d85f362efbf0a.jpg",
     "static/media/green.svg": "/portfolio/static/media/green.5bdf0e2c47c27a84a586.svg",
-    "static/media/productTime.png": "/portfolio/static/media/productTime.84321348b557b36bc078.png",
     "static/media/one.svg": "/portfolio/static/media/one.696bfd83de9bb7556360.svg",
     "static/media/logo.png": "/portfolio/static/media/logo.b69d699ae4d9e0009d21.png",
     "static/media/long.svg": "/portfolio/static/media/long.0f79c131696b10ea6d69.svg",
+    "static/media/productTime.png": "/portfolio/static/media/productTime.51b407f71fbe8634bba1.png",
     "static/media/Duo-1.jpg": "/portfolio/static/media/Duo-1.eccfd1f3140c0533e74f.jpg",
     "static/media/oop.jpg": "/portfolio/static/media/oop.6043e0f52ac5d7e042aa.jpg",
     "static/media/personalList.png": "/portfolio/static/media/personalList.751ccfb0d197301d1d07.png",
@@ -25,11 +25,11 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.78d21fb2aa7e07aca14f.svg",
     "index.html": "/portfolio/index.html",
     "main.39326a74.css.map": "/portfolio/static/css/main.39326a74.css.map",
-    "main.184d02d9.js.map": "/portfolio/static/js/main.184d02d9.js.map",
+    "main.c1164765.js.map": "/portfolio/static/js/main.c1164765.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39326a74.css",
-    "static/js/main.184d02d9.js"
+    "static/js/main.c1164765.js"
   ]
 }
