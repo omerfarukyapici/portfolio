@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.39326a74.css",
-    "main.js": "/portfolio/static/js/main.c1164765.js",
+    "main.js": "/portfolio/static/js/main.5ff7bfbc.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/batmanGames.png": "/portfolio/static/media/batmanGames.3cd07df303204307e199.png",
     "static/media/databox.jpg": "/portfolio/static/media/databox.01f6744b3d44dd701f9c.jpg",
@@ -25,11 +25,11 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.78d21fb2aa7e07aca14f.svg",
     "index.html": "/portfolio/index.html",
     "main.39326a74.css.map": "/portfolio/static/css/main.39326a74.css.map",
-    "main.c1164765.js.map": "/portfolio/static/js/main.c1164765.js.map",
+    "main.5ff7bfbc.js.map": "/portfolio/static/js/main.5ff7bfbc.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39326a74.css",
-    "static/js/main.c1164765.js"
+    "static/js/main.5ff7bfbc.js"
   ]
 }
