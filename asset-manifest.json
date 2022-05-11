@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.11068623.css",
+    "main.css": "/portfolio/static/css/main.2148dbb6.css",
     "main.js": "/portfolio/static/js/main.57211b9b.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/batmanGames.png": "/portfolio/static/media/batmanGames.3cd07df303204307e199.png",
@@ -25,12 +25,12 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.78d21fb2aa7e07aca14f.svg",
     "static/media/humburgerLogo.svg": "/portfolio/static/media/humburgerLogo.4f2e16e41c2517ddfae5.svg",
     "index.html": "/portfolio/index.html",
-    "main.11068623.css.map": "/portfolio/static/css/main.11068623.css.map",
+    "main.2148dbb6.css.map": "/portfolio/static/css/main.2148dbb6.css.map",
     "main.57211b9b.js.map": "/portfolio/static/js/main.57211b9b.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11068623.css",
+    "static/css/main.2148dbb6.css",
     "static/js/main.57211b9b.js"
   ]
 }
