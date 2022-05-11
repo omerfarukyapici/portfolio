@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.39326a74.css",
-    "main.js": "/portfolio/static/js/main.5ff7bfbc.js",
+    "main.css": "/portfolio/static/css/main.11068623.css",
+    "main.js": "/portfolio/static/js/main.4b01203e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/batmanGames.png": "/portfolio/static/media/batmanGames.3cd07df303204307e199.png",
     "static/media/databox.jpg": "/portfolio/static/media/databox.01f6744b3d44dd701f9c.jpg",
@@ -9,7 +9,7 @@
     "static/media/fetch.jpg": "/portfolio/static/media/fetch.c6ed641d85f362efbf0a.jpg",
     "static/media/green.svg": "/portfolio/static/media/green.5bdf0e2c47c27a84a586.svg",
     "static/media/one.svg": "/portfolio/static/media/one.696bfd83de9bb7556360.svg",
-    "static/media/logo.png": "/portfolio/static/media/logo.b69d699ae4d9e0009d21.png",
+    "static/media/faviconlogo.png": "/portfolio/static/media/faviconlogo.d3f7628ef5c0f7aef51e.png",
     "static/media/long.svg": "/portfolio/static/media/long.0f79c131696b10ea6d69.svg",
     "static/media/productTime.png": "/portfolio/static/media/productTime.51b407f71fbe8634bba1.png",
     "static/media/Duo-1.jpg": "/portfolio/static/media/Duo-1.eccfd1f3140c0533e74f.jpg",
@@ -23,13 +23,14 @@
     "static/media/twitter.svg": "/portfolio/static/media/twitter.6a41a069975cc98636c6.svg",
     "static/media/github.svg": "/portfolio/static/media/github.8db977e801919c3d5e16.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.78d21fb2aa7e07aca14f.svg",
+    "static/media/humburgerLogo.svg": "/portfolio/static/media/humburgerLogo.4f2e16e41c2517ddfae5.svg",
     "index.html": "/portfolio/index.html",
-    "main.39326a74.css.map": "/portfolio/static/css/main.39326a74.css.map",
-    "main.5ff7bfbc.js.map": "/portfolio/static/js/main.5ff7bfbc.js.map",
+    "main.11068623.css.map": "/portfolio/static/css/main.11068623.css.map",
+    "main.4b01203e.js.map": "/portfolio/static/js/main.4b01203e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39326a74.css",
-    "static/js/main.5ff7bfbc.js"
+    "static/css/main.11068623.css",
+    "static/js/main.4b01203e.js"
   ]
 }
